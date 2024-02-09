@@ -17,7 +17,7 @@ Com este projeto pude aprofundar os meus conhecimentos em Tags e elementos, Quir
 | Cor primária      | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
 | Cor secundária    | ![#F8F4EC](https://via.placeholder.com/10/F8F4EC?text=+) #F8F4EC |
 | Cor terciária     | ![#D63484](https://via.placeholder.com/10/D63484?text=+) #D63484 |
-| Cor quartenária   | ![#FF9BD2](https://via.placeholder.com/10/FF9BD2?text=+) #FF9BD2 |
+| Cor quatenária   | ![#FF9BD2](https://via.placeholder.com/10/FF9BD2?text=+) #FF9BD2 |
 | Cor hover         | ![#402B3A](https://via.placeholder.com/10/402B3A?text=+) #402B3A |
 
 
